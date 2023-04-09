@@ -7,5 +7,7 @@ Technologies used.
 Front-End - HTML, CSS, BootStrap.
 
 
+Back-End - Node.js, Express.js, EJS.
 
-Back-End - Node.js, Express.js.
+
+Database - MongoDB with Atlas.
